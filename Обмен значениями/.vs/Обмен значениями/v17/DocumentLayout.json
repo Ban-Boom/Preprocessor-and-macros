@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games\\Prodgect\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6A885C-1853-4110-BE09-9F95C4BD83CC}|\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.vcxproj|C:\\Games\\Prodgect\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B6A885C-1853-4110-BE09-9F95C4BD83CC}|\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.vcxproj|solutionrelative:\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp",
+              "DocumentMoniker": "C:\\Games\\Prodgect\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp",
+              "RelativeDocumentMoniker": "\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp",
+              "ToolTip": "C:\\Games\\Prodgect\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp",
+              "RelativeToolTip": "\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438\\\u041E\u0431\u043C\u0435\u043D \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u044F\u043C\u0438.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T20:02:48.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
